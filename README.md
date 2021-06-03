@@ -9,7 +9,7 @@ The figure shows the score of train and test conditions for K from 1 to 29:
   <img src="https://github.com/hamedmokazemi/k_nearest_neighbors/blob/main/KNN_n_train_test.png" width=800/>
 </p>  
   
-The figure for k=10:  
+The figure for WIT and K=10:  
 <p align="center">
   <img src="https://github.com/hamedmokazemi/k_nearest_neighbors/blob/main/KNN.png" width=800/>
 </p>  
